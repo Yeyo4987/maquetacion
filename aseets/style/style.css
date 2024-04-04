@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(7, 13, 39, 0.979);
+}
+img{
+    width: 100%;
+    object-fit: contain;
+    border-radius: .5em;
+}
+.fondo{
+    background-color: rgb(13, 18, 63);
+    padding: 2em;
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    border-radius: 8px;
+}
